@@ -1,0 +1,56 @@
+body {
+    background-color: #537895;
+    background-image: linear-gradient(90deg, #537895 0%, #09203f 74%);
+    font-family: 'Poltawski Nowy', serif;
+}
+
+#quote-box {
+    background-color: #b8c6db;
+    background-image: linear-gradient(315deg, #b8c6db 0%, #f5f7fa 74%);
+    width: 60%;
+    margin: 20% auto 0;
+    text-align: center;
+    padding: 40px 20px 0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #b8c6db;
+}
+
+#text {
+    font-size: 1.8rem;
+    margin-bottom: 0;
+}
+
+hr {
+    width: 85%;
+}
+
+#author {
+    font-size: 1rem;
+    font-style: italic;
+    margin-top: 0;
+}
+
+button,
+a {
+    margin: 30px auto 10px;
+    padding: 20px;
+    background-image: linear-gradient(180deg, #aab5c8, #f5f7fa);
+    cursor: pointer;
+    border-radius: 5px;
+    border: 2px solid #09203f;
+    font-size: 0.9rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: #152c48;
+}
+
+a {
+    text-decoration: none;
+}
+
+#new-quote {
+    margin-right: 40px;
+}
+
+#tweet-quote {
+    margin-left: 40px;
+}
