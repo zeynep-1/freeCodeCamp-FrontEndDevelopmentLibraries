@@ -1,0 +1,24 @@
+#drum-machine {
+    margin-top: 20px;
+}
+
+.drum-pad {
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+    width: 100%;
+    background-color: whitesmoke;
+}
+
+#display {
+    margin: 20px auto;
+    width: 40%;
+    height: 50px;
+    border-radius: 10px;
+    background-color: rosybrown;
+    text-align: center;
+    font-size: 2rem;
+}
